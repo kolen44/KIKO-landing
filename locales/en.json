@@ -1,0 +1,702 @@
+{
+  "navigation": {
+    "wallet": "KIKO",
+    "settings": "Settings",
+    "swap": "Content",
+    "support": "Support",
+    "about": "About Us",
+    "contact": "Contact",
+    "terms": "Terms of Use",
+    "privacy": "Privacy Policy",
+    "faq": "FAQ",
+    "security_tips": "Security Tips",
+    "user_guide": "User Guide"
+  },
+  "theme": {
+    "dark": "Dark",
+    "light": "Light"
+  },
+  "language": {
+    "title": "Language"
+  },
+  "download": {
+    "button": "Download",
+    "your_wallet": "Download KIKO",
+    "mobile_app": "Mobile App",
+    "title": "Download KIKO AI",
+    "subtitle": "KIKO – a family AI companion available as a mobile app and home integration.",
+    "ios": {
+      "title": "Download for iOS",
+      "description": "Install the KIKO app from the App Store and start interacting with your family companion."
+    },
+    "android": {
+      "title": "Download for Android",
+      "description": "Install the KIKO app from Google Play for a full device experience."
+    },
+    "apk": {
+      "title": "Download Android APK",
+      "description": "Download KIKO APK for off-store installation (instructions and security inside)."
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "KIKO AI – Family AI Companion: Play, Learn, Talk Together",
+      "description": "KIKO combines voice AI, room projector, camera, and smart audio to transform any home into a space for play, learning, and communication.",
+      "download_mobile": "Download KIKO App",
+      "stats": {
+        "trusted": "Trusted by families worldwide",
+        "founded": "Founded by AI experts",
+        "audited": "Independently security audited",
+        "certified": "Meets quality standards",
+        "ratings": "High user ratings"
+      }
+    },
+    "chains": {
+      "title": "One Platform – Thousands of Possibilities",
+      "description": "KIKO works with various content and services: interactive games, educational modules, video calls, multimedia, and smart home. All in one environment.",
+      "search_placeholder": "Search functions, games, and skills...",
+      "chain": "Service",
+      "buy": "Buy Device",
+      "sell": "Gifts",
+      "swap": "Content Exchange",
+      "earn": "Rewards",
+      "dapps": "Skills & Apps"
+    },
+    "simple": {
+      "title": "Simple. Intuitive.",
+      "description": "A smooth experience on mobile and home device – KIKO control is intuitive for parents and fun for kids.",
+      "deposit": {
+        "title": "Easy Start",
+        "description": "Connection and setup in a few steps. Sync accounts, add family profiles, and start playing.",
+        "cta": "Start Setup"
+      }
+    },
+    "security": {
+      "title": "Family Privacy and Security",
+      "description": "KIKO prioritizes privacy: local processing of sensitive data, encryption, and transparent privacy settings for parents.",
+      "ownership": {
+        "title": "Family Control",
+        "description": "You manage data and permissions: KIKO does not use your private data without consent.",
+        "cta": "Configure Security"
+      },
+      "features": {
+        "encryption": {
+          "title": "Encryption & Local Backups",
+          "description": "Encrypted backups and hybrid Edge/Cloud architecture for speed and privacy."
+        },
+        "tracking": {
+          "title": "No Hidden Tracking",
+          "description": "We do not track personal movements or sell data to third parties."
+        },
+        "alerts": {
+          "title": "Risk Alerts",
+          "description": "Proactive alerts for suspicious activity or unusual connections."
+        }
+      },
+      "learn_more": "Learn more about data protection"
+    },
+    "web3": {
+      "title": "Family Entertainment and Learning Hub",
+      "description": "Games, lessons, online meetings, and creative projects – KIKO combines entertainment with safe learning.",
+      "cta": "Discover KIKO's Capabilities"
+    },
+    "your": {
+      "title": "We Build Trust",
+      "description": "KIKO is a product built for families: open, secure, and continuously improving with the community.",
+      "cta": "Learn More"
+    },
+    "footer": {
+      "stay_connected": "Stay Connected:",
+      "download": {
+        "title": "Download KIKO",
+        "description": "Family AI companion for learning and entertainment.",
+        "ios": "Download for iOS",
+        "android": "Download for Android"
+      },
+      "wallet": "KIKO",
+      "mobile_app": "Mobile App"
+    },
+    "partnerships": {
+      "title": "Partnerships",
+      "description": "We partner with educational platforms, gaming studios, and security experts to create the best content for families."
+    }
+    ,
+    "creators": {
+      "title": "Our Team",
+      "lead": "Three enthusiasts combining experience in technology, design and innovation to build this project.",
+      "creator1": {
+        "name": "Nurislam Ashirmatov",
+        "description": "Co-CEO | CBDO. Serial entrepreneur with 8 years as a founder. Former hospital clown. Speaks 5 languages."
+      },
+      "creator2": {
+        "name": "Temirlan Razbaev",
+        "description": "Co-CEO | CPO. Former teacher and mentor with 12 years in product management. Led 100+ social and childcare projects."
+      },
+      "creator3": {
+        "name": "Ilya Sukhan",
+        "description": "CTO. Senior software engineer and programming olympiad winner. Co-built industrial CRM/ERP systems and co-founded a startup that raised $100K pre-seed."
+      }
+    }
+  },
+  "metadata": {
+    "title": "KIKO AI | Family AI Companion",
+    "description": "KIKO – a multimodal family companion: projector, camera, voice AI, interactive games for shared time, learning, and creativity.",
+    "og": {
+      "description": "KIKO transforms any wall, floor, or table into an interactive playground, communicating with family via voice, gestures, and projection.",
+      "alt": "KIKO AI – Family AI companion with projector and camera"
+    },
+    "twitter": {
+      "description": "KIKO – family AI companion: play, learn, and communicate together."
+    },
+    "about": {
+      "title": "KIKO AI – About Us",
+      "description": "Learn about the KIKO team, our mission, and the technologies that make family moments brighter."
+    },
+    "download": {
+      "title": "KIKO AI – Download",
+      "description": "Download the KIKO app and start your journey with your new home companion."
+    },
+    "privacy": {
+      "title": "KIKO AI – Privacy Policy",
+      "description": "How KIKO protects your personal information and privacy rights."
+    },
+    "support": {
+      "title": "KIKO AI – Support",
+      "description": "KIKO Support Center: help with setup, security, and content."
+    },
+    "swap": {
+      "title": "KIKO AI – Content Exchange",
+      "description": "Safely exchange games, scenarios, and lessons within your family profile and with the community."
+    },
+    "terms": {
+      "title": "KIKO AI – Terms of Use",
+      "description": "KIKO's terms and conditions of use, binding us and protecting the family."
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: November 5, 2025",
+    "overview": {
+      "title": "Overview",
+      "content": "Protecting your family's privacy is our priority. This document describes what data we collect, how and why we use it, and your rights and management options. KIKO is designed with 'privacy by design' principles: we minimize data collection and primarily process sensitive information locally on the device."
+    },
+    "acceptance": {
+      "title": "Your Acceptance of This Policy",
+      "content": "By using the KIKO device or app, you agree to this Privacy Policy. You can always adjust privacy settings in the app and manage permissions."
+    },
+    "collection": {
+      "title": "What Personal Data We Collect",
+      "content": "We collect minimal necessary information: family member profiles, content preferences, and technical data for device operation. Sensitive data (camera video, audio) is processed locally for interactivity and may be transferred to the cloud only with explicit consent."
+    },
+    "sharing": {
+      "title": "Information Sharing with Third Parties",
+      "content": "We do not sell your data. Sharing with service partners is only for providing functions (content updates, backup storage) and occurs via encrypted channels. All providers must adhere to our security standards."
+    },
+    "usage": {
+      "title": "How We Use Your Information",
+      "content": "Data is used to personalize interaction (remembering preferences), improve functions (model training), debugging, and security. Aggregated anonymous data may be used to improve products."
+    },
+    "rights": {
+      "title": "Your Privacy Rights",
+      "content": "You can view, correct, and delete personal data, restrict processing, and request data export. Some data related to security and logs may be retained as required by law."
+    },
+    "retention": {
+      "title": "Data Retention",
+      "content": "We retain data only as long as necessary to provide services. Local media files and recordings can be deleted anytime from device settings. Some technical logs may be archived for diagnostics."
+    },
+    "security": {
+      "title": "Data Security",
+      "content": "KIKO uses modern encryption, isolated on-device processing (Edge), and verified cloud solutions for backups. We regularly conduct security audits and update software."
+    },
+    "children": {
+      "title": "Children's Privacy",
+      "content": "KIKO is designed for families: parental controls and child modes are enabled by default. We do not collect targeted personalized advertising for children or share children's data without parental consent."
+    },
+    "updates": {
+      "title": "Policy Updates",
+      "content": "We may update this policy. In case of significant changes, you will be notified in the app. Continued use of KIKO after notification constitutes consent."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "content": "If you have questions about our privacy policy or wish to exercise your rights, please contact us.",
+      "email": "Email: privacy@kiko.ai"
+    }
+  },
+  "terms": {
+    "title": "Terms of Use",
+    "lastUpdated": "Last Updated: November 5, 2025",
+    "general": {
+      "title": "1. General Provisions",
+      "content": "These Terms govern the use of KIKO devices and services. By using KIKO, you agree to these terms and commit to using the device lawfully and according to rules."
+    },
+    "service": {
+      "title": "2. Service Usage",
+      "content": "KIKO provides interactive communication, projection, video calls, and educational content. Features may be updated. Some options may require registration."
+    },
+    "responsibilities": {
+      "title": "3. User Responsibilities",
+      "content": "Users are responsible for correct device operation, account security, and access data. Parents/guardians are responsible for children's use of KIKO."
+    },
+    "privacy": {
+      "title": "4. Privacy",
+      "content": "Personal data processing is in accordance with KIKO's Privacy Policy."
+    },
+    "eligibility": {
+      "title": "2. Age and Eligibility",
+      "content": "KIKO can be used by individuals over 16, with parental consent for those under 16 (regional differences may apply). Access to some features is age-restricted."
+    },
+    "account": {
+      "title": "3. Account Creation and Security",
+      "content": "An account may be required for certain features. You must keep credentials secure and report unauthorized access immediately."
+    },
+    "wallet": {
+      "title": "4. Device Services",
+      "content": "KIKO provides storage for user profiles, settings, and content. KIKO is not a financial platform; all content purchases are via secure payment gateways."
+    },
+    "transactions": {
+      "title": "5. Purchases and Payment",
+      "content": "In-app and content purchases are final unless stated otherwise. All financial transactions are processed by certified providers."
+    },
+    "prohibited": {
+      "title": "6. Prohibited Use",
+      "content": "Prohibited uses include illegal activities, violating others' rights, spreading malware or harmful content, promoting violence or discrimination."
+    },
+    "intellectual": {
+      "title": "7. Intellectual Property",
+      "content": "All rights to KIKO software, design, and content belong to our company or licensors. Users receive a limited license to use."
+    },
+    "liability": {
+      "title": "8. Limitation of Liability",
+      "content": "We are not liable for indirect damages, data loss, or damages from improper device use. Our obligations are limited to the extent permitted by law."
+    },
+    "termination": {
+      "title": "9. Termination of Use",
+      "content": "We may suspend or terminate access for terms violations. You can also close your account anytime."
+    },
+    "law": {
+      "title": "10. Governing Law",
+      "content": "These terms are governed by the laws of the country specified in your purchase settings or company registration. Disputes are resolved as prescribed."
+    },
+    "contact": {
+      "title": "11. Contact",
+      "content": "For terms of use inquiries, contact our support.",
+      "email": "support@kiko.ai"
+    }
+  },
+  "support": {
+    "title": "Frequently Asked Questions",
+    "description": "Find answers on KIKO setup, safe use, and features. If not found, our support is always available.",
+    "faq": [
+      {
+        "question": "What is KIKO and why do I need it?",
+        "answer": "KIKO is a family AI companion with voice interface, projector, and camera. It helps with games, children's education, video calls, and family activities – safely and fun."
+      },
+      {
+        "question": "Which devices does KIKO support?",
+        "answer": "KIKO is an autonomous device with a projector and camera, and supports a mobile app on iOS and Android for control and personalization."
+      },
+      {
+        "question": "Which languages are supported?",
+        "answer": "KIKO supports Russian and other major languages. The list of languages is regularly expanded."
+      },
+      {
+        "question": "Is KIKO usage paid?",
+        "answer": "Basic KIKO functionality is available without subscription. Additional premium content, educational courses, and some games may require subscription or separate purchase."
+      },
+      {
+        "question": "How to get technical support?",
+        "answer": "Tech support is available via the app, website's 'Support' section, and email support@kiko.ai. For emergencies, use built-in problem reporting tools."
+      }
+    ],
+    "contact": {
+      "title": "Still Have Questions?",
+      "description": "If you didn't find an answer in the FAQ, contact us – we'll help with setup, security, and content.",
+      "button": "Contact Support"
+    }
+  },
+  "swap": {
+    "title": "Content and Skill Exchange",
+    "description": "Share scenarios, games, and educational modules between family profiles or with the KIKO community – safely and easily.",
+    "process": {
+      "title": "Simple Exchange Steps",
+      "steps": {
+        "step1": "1. Open 'Exchange' section in the app",
+        "step2": "2. Select content or skill",
+        "step3": "3. Check details and access rights",
+        "step4": "4. Confirm and share"
+      },
+      "cta": "Open Exchange"
+    },
+    "form": {
+      "from": "Source",
+      "to": "Recipient",
+      "select_token": "Select Content",
+      "swap_button": "Share"
+    },
+    "features": {
+      "best_rates": {
+        "title": "Smart Content Routing",
+        "description": "KIKO automatically optimizes formats and adapts content to the current device and environment."
+      },
+      "low_fees": {
+        "title": "Minimum Complexity",
+        "description": "Content exchange is fast and secure – we simplify the process so you spend time communicating, not configuring."
+      },
+      "secure": {
+        "title": "Secure Exchange",
+        "description": "All exchanges happen via encrypted channels, and access rights are controlled by parents."
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "KIKO AI – Your Family AI Companion",
+      "description": "We create devices and services that make shared home time engaging, safe, and developmental.",
+      "explore": "Explore KIKO World"
+    },
+    "vision": {
+      "title": "Our Mission",
+      "description": "To give families a tool for active shared time: games, learning, and genuine conversations with AI support, where safety and privacy are fundamental."
+    },
+    "mission": {
+      "title": "Our Vision",
+      "description": "KIKO helps children grow curious, helps parents save time, and strengthens family bonds through interactive stories, games, and collaborative creativity."
+    },
+    "principles": {
+      "title": "Values That Guide Us",
+      "description": "We combine advanced technology and a warm human approach to create reliable products for every family.",
+      "humanCentric": {
+        "title": "Human-Centric",
+        "description": "We design KIKO around real family needs, listen to feedback, and learn quickly."
+      },
+      "trustResponsibility": {
+        "title": "Trust and Responsibility",
+        "description": "Honesty and security are key principles in our service development."
+      },
+      "collaboration": {
+        "title": "Collaboration",
+        "description": "We unite developers, educators, and parents for better content."
+      },
+      "continuousImprovement": {
+        "title": "Continuous Improvement",
+        "description": "We regularly update and enhance KIKO, adding new games and educational modules."
+      },
+      "transparency": {
+        "title": "Transparency",
+        "description": "We openly share how AI works and how data is processed."
+      },
+      "solutionOriented": {
+        "title": "Solutions, Not Promises",
+        "description": "We create concrete useful functionality for real family life."
+      }
+    },
+    "team": {
+      "title": "Our Team",
+      "description": "Professionals in AI, design, child psychology, and engineering united by the idea of making homes kinder and smarter.",
+      "member1": {
+        "name": "Ryan Samuel",
+        "role": "Founder & CEO"
+      },
+      "member2": {
+        "name": "Sarah Johnson",
+        "role": "CTO"
+      },
+      "member3": {
+        "name": "Michael Chen",
+        "role": "Product Lead"
+      }
+    },
+    "contact": {
+      "title": "Contact Us",
+      "description": "We welcome your ideas, questions, and content suggestions.",
+      "cta": "Go to Support"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Find quick answers about KIKO. If you don't find what you need, contact us.",
+    "search_placeholder": "Search questions...",
+    "categories": {
+      "all": "All",
+      "general": "General",
+      "security": "Security",
+      "payment": "Payment",
+      "crypto": "Content"
+    },
+    "support_section": {
+      "live_support": {
+        "title": "Live Support",
+        "description": "Contact our 24/7 technical support.",
+        "cta": "Get Help"
+      },
+      "user_guide": {
+        "title": "User Guide",
+        "description": "Step-by-step instructions and videos for KIKO setup and use.",
+        "cta": "Go to Guide"
+      }
+    },
+    "general": [
+      {
+        "question": "What is KIKO?",
+        "answer": "KIKO is a home social robot with a projector, camera, and voice AI that creates interactive projections, engages in dialogue, assists with learning, and organizes family games."
+      },
+      {
+        "question": "How to download and connect KIKO?",
+        "answer": "Download the KIKO app, create a family profile, and follow Wi-Fi connection instructions. A detailed guide is in the 'User Guide' section."
+      },
+      {
+        "question": "Which languages does KIKO support?",
+        "answer": "KIKO supports Russian and several other languages; the list expands with software updates."
+      },
+      {
+        "question": "Is KIKO usage paid?",
+        "answer": "Core functionality is free. Premium content, educational courses, and additional packages may be paid."
+      },
+      {
+        "question": "How to get support?",
+        "answer": "Support is available via the app, website, and email support@kiko.ai."
+      }
+    ],
+    "security": [
+      {
+        "question": "How secure is KIKO?",
+        "answer": "KIKO prioritizes security: local sensitive information processing, encryption, and parental controls – all for family peace of mind."
+      },
+      {
+        "question": "What if I forgot my password?",
+        "answer": "Use recovery via your linked email or phone in the app. For additional measures, contact support."
+      },
+      {
+        "question": "How to enable two-factor authentication?",
+        "answer": "Go to Settings > Security > Two-Factor Authentication and follow the instructions."
+      },
+      {
+        "question": "How to transfer KIKO to another device?",
+        "answer": "Add a new profile in the app and use the transfer wizard for settings and family profiles."
+      },
+      {
+        "question": "Where to report fraud?",
+        "answer": "Report any suspicious requests or phishing attempts to security@kiko.ai."
+      }
+    ],
+    "payment": [
+      {
+        "question": "How are content prices determined?",
+        "answer": "Prices depend on content type: paid courses, scene packs, or subscriptions. All terms are displayed before purchase."
+      },
+      {
+        "question": "Which payment methods are supported?",
+        "answer": "Card payment, mobile payments, and local payment methods – depending on region."
+      },
+      {
+        "question": "What are the purchase limits?",
+        "answer": "Parental profiles can set daily and single purchase limits in the app."
+      },
+      {
+        "question": "Can I cancel an order?",
+        "answer": "Cancellation is possible within a set period if content hasn't been activated. Refund policy is available in the purchase section."
+      },
+      {
+        "question": "How long does a withdrawal/refund take?",
+        "answer": "Refunds are processed according to payment provider terms, usually within 5–10 business days."
+      }
+    ],
+    "crypto": [
+      {
+        "question": "Which content formats are supported?",
+        "answer": "KIKO supports interactive scenarios, videos, audio, animations, and expandable game modules."
+      },
+      {
+        "question": "How does learning and tutoring work?",
+        "answer": "KIKO uses adaptive algorithms to adjust to a child's level, explain tasks, and show explanatory projections and videos."
+      },
+      {
+        "question": "How to manage NFT/digital media?",
+        "answer": "Currently, KIKO supports managing and playing digital collections within the profile; advanced features are under development."
+      },
+      {
+        "question": "How to connect to Web3 applications?",
+        "answer": "Integrations with external platforms are implemented via secure APIs and with explicit user consent."
+      }
+    ]
+  },
+  "user_guide": {
+    "title": "User Guide",
+    "description": "Detailed guide to KIKO setup and use, helping you quickly enjoy the device.",
+    "quick_links": {
+      "download": {
+        "title": "Download App",
+        "description": "Install the KIKO app and prepare the device.",
+        "cta": "Go to Download"
+      },
+      "videos": {
+        "title": "Video Guides",
+        "description": "Watch step-by-step videos on KIKO setup and features.",
+        "cta": "Watch Videos"
+      }
+    },
+    "video_section": {
+      "title": "Video Tutorials",
+      "videos": "Video 1: Quick Start | Video 2: Parental Control | Video 3: Creating Games"
+    },
+    "guides": {
+      "getting_started": {
+        "title": "Getting Started",
+        "sections": {
+          "account_creation": {
+            "subtitle": "Account Creation",
+            "content": "1. Download KIKO app\n2. Tap 'Create Family' and add family profiles\n3. Connect device to Wi-Fi\n4. Set up parental control and PIN\n5. Complete a short tutorial scenario"
+          },
+          "security_settings": {
+            "subtitle": "Security Settings",
+            "content": "1. Enable encrypted backups\n2. Activate two-factor authentication\n3. Set age restrictions for child profiles"
+          }
+        }
+      },
+      "basic_features": {
+        "title": "Basic Features",
+        "sections": {
+          "view_assets": {
+            "subtitle": "View Content",
+            "content": "On the home screen, you'll see active games, lessons, and recent projections. Tap a card for details."
+          },
+          "send_crypto": {
+            "subtitle": "Send Content",
+            "content": "1. Open 'Exchange' section\n2. Select scenario or game\n3. Specify recipient (profile) and access rights\n4. Confirm transfer"
+          },
+          "receive_crypto": {
+            "subtitle": "Receive Content",
+            "content": "1. Go to 'Inbox'\n2. Accept or decline sent content\n3. Review access rights and terms of use"
+          }
+        }
+      },
+      "advanced_features": {
+        "title": "Advanced Features",
+        "sections": {
+          "token_swap": {
+            "subtitle": "Skill Exchange",
+            "content": "1. Open 'Developers' section (if needed)\n2. Upload KIKO skill package\n3. Publish or share with community"
+          },
+          "nft_management": {
+            "subtitle": "Media Management",
+            "content": "Send and store photos, AR effects, and collections within your family profile."
+          },
+          "transaction_history": {
+            "subtitle": "Activity History",
+            "content": "Track device activities, content purchases, and permissions in 'History' section."
+          }
+        }
+      }
+    }
+  },
+  "security_tips": {
+    "title": "Security Tips",
+    "subtitle": "How to protect your home and data when using KIKO",
+    "card_titles": {
+      "checklist": "Security Checklist",
+      "faq": "Security FAQ"
+    },
+    "card_descriptions": {
+      "checklist": "Review security settings step-by-step",
+      "faq": "Answers to key questions about data and device protection"
+    },
+    "tips": {
+      "recovery_phrase": {
+        "title": "Protect Access Keys",
+        "description": "For access recovery, use reliable methods for storing backup codes and passwords. Don't store them in public places.",
+        "tips": "Store backup codes offline|Use a reliable password manager|Securely back up"
+      },
+      "strong_password": {
+        "title": "Use Strong Passwords",
+        "description": "Create a unique password for your KIKO account and avoid reuse.",
+        "tips": "Minimum 12 characters|Mix of letters, numbers, and symbols|Don't use easily guessed info"
+      },
+      "device_security": {
+        "title": "Device Security",
+        "description": "Keep KIKO software and operating systems updated and limit unsupervised physical access to children.",
+        "tips": "Update software regularly|Don't install unverified modules|Use screen lock"
+      },
+      "privacy_settings": {
+        "title": "Privacy Settings",
+        "description": "Check privacy settings and camera/microphone permissions – manage what KIKO can see and hear.",
+        "tips": "Enable parental control|Restrict camera access|Manage app permissions"
+      },
+      "fraud_prevention": {
+        "title": "Beware of Scammers",
+        "description": "Be cautious of suspicious messages and access requests – KIKO will never ask for your passwords or payment details via SMS.",
+        "tips": "Don't share passwords|Check official support channels|Don't click suspicious links"
+      },
+      "backup_recovery": {
+        "title": "Backup and Recovery",
+        "description": "Regularly create secure backups of settings and profiles for quick recovery if needed.",
+        "tips": "Encrypt backups|Store copies in multiple locations|Test recovery"
+      }
+    },
+    "security_notice": {
+      "title": "Important Security Notice",
+      "content": "The KIKO team will never ask for your private keys, PIN, or passwords. Report suspicious behavior to security@kiko.ai."
+    },
+    "cta": {
+      "go_to": "Go to Checklist",
+      "go_to_faq": "Go to Security FAQ"
+    },
+    "sections": {
+      "basics": {
+        "title": "Basic Security",
+        "tips": [
+          {
+            "title": "Strong Passwords",
+            "description": "Create complex passwords and update them regularly."
+          },
+          {
+            "title": "Two-Factor Authentication",
+            "description": "Enable 2FA for your KIKO account."
+          },
+          {
+            "title": "Backup",
+            "description": "Store backup settings and access codes in a safe place."
+          }
+        ]
+      },
+      "transactions": {
+        "title": "Interaction Security",
+        "tips": [
+          {
+            "title": "Permission Check",
+            "description": "Always check access rights before accepting content."
+          },
+          {
+            "title": "Test Operations",
+            "description": "Conduct small tests before important actions."
+          },
+          {
+            "title": "Link Caution",
+            "description": "Do not click links from unverified messages."
+          }
+        ]
+      },
+      "device": {
+        "title": "Device Protection",
+        "tips": [
+          {
+            "title": "Updates",
+            "description": "Install software updates for security and new features."
+          },
+          {
+            "title": "Secure Network",
+            "description": "Connect KIKO only to trusted Wi-Fi networks."
+          },
+          {
+            "title": "Device Lock",
+            "description": "Use PIN or biometric protection for settings access."
+          }
+        ]
+      }
+    },
+    "emergency": {
+      "title": "Emergency Situations",
+      "contact": "24/7 Security Service",
+      "report": "Report Suspicious Activity"
+    }
+  }
+}
